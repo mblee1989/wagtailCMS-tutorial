@@ -1,1 +1,1 @@
-# wagtailCMS-tutorial
+# HCNP-自学
